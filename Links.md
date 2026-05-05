@@ -3,6 +3,11 @@
 Click on any link below to start downloading directly.
 
 ---
+📅 **2026-05-05 21:43 IR**
+
+📥 [Exclave-0.17.38-arm64-v8a.apk](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/Exclave-0.17.38-arm64-v8a.apk) ｜ 23M
+
+---
 📅 **2026-05-05 21:40 IR**
 
 📥 [v2rayN-windows-64.zip.z01](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/v2rayN-windows-64.zip.z01) ｜ 90M
