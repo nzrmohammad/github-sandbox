@@ -3,6 +3,12 @@
 Click on any link below to start downloading directly.
 
 ---
+📅 **2026-05-05 22:01 IR**
+
+📥 [ProxifierMac.dmg](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/ProxifierMac.dmg) ｜ 2.7M
+📥 [ProxifierSetup.exe](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/ProxifierSetup.exe) ｜ 5.3M
+
+---
 📅 **2026-05-05 21:53 IR**
 
 📥 [mhrv-rs-windows-amd64.zip](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/mhrv-rs-windows-amd64.zip) ｜ 7.0M
