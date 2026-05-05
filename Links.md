@@ -3,6 +3,12 @@
 Click on any link below to start downloading directly.
 
 ---
+📅 **2026-05-05 22:07 IR**
+
+📥 [com.wireguard.android-1.0.20260315.apk](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/com.wireguard.android-1.0.20260315.apk) ｜ 17M
+📥 [wireguard-installer.exe](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/wireguard-installer.exe) ｜ 88K
+
+---
 📅 **2026-05-05 22:04 IR**
 
 📥 [go1.26.2.windows-amd64.msi](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/go1.26.2.windows-amd64.msi) ｜ 60M
