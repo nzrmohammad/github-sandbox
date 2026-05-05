@@ -114,9 +114,7 @@ After committing, you can monitor the workflow:
 - Separate multiple URLs with spaces
 - The workflow skips itself using `[skip ci]` in its own commit message to avoid infinite loops
 - If no valid `download:` or `download-zip:` command is found in the commit message, the workflow will exit without doing anything.(You can also manually find the files in the downloads/ folder).
-- Due to the **100 MB** limit from GitHub, we set the maximum size allowed for each file to 90 MB by default. If the file size is higher than this value, it will be split and compressed (zip). On Android, you can use applications like MiXplorer to join the split files together.
-
-On Windows, you can use WinRAR or 7-Zip for this purpose.
+- Due to the **100 MB** limit from GitHub, we set the maximum size allowed for each file to 90 MB by default. If the file size is higher than this value, it will be split and compressed (zip). On Android, you can use applications like MiXplorer to join the split files together.On Windows, you can use WinRAR or 7-Zip for this purpose.
 
 ---
 
