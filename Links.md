@@ -3,6 +3,12 @@
 Click on any link below to start downloading directly.
 
 ---
+📅 **2026-05-05 22:10 IR**
+
+📥 [PsiphonAndroid.apk](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/PsiphonAndroid.apk) ｜ 22M
+📥 [psiphon3.exe](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/psiphon3.exe) ｜ 10M
+
+---
 📅 **2026-05-05 22:07 IR**
 
 📥 [com.wireguard.android-1.0.20260315.apk](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/com.wireguard.android-1.0.20260315.apk) ｜ 17M
