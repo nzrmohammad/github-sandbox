@@ -3,6 +3,11 @@
 Click on any link below to start downloading directly.
 
 ---
+📅 **2026-05-05 21:47 IR**
+
+📥 [Shade-1.4.2.dmg](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/Shade-1.4.2.dmg) ｜ 43M
+
+---
 📅 **2026-05-05 21:45 IR**
 
 📥 [SlipNet-v2.5.3-full-release-arm64-v8a.apk](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/SlipNet-v2.5.3-full-release-arm64-v8a.apk) ｜ 26M
