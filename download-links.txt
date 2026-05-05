@@ -1,0 +1,21 @@
+1 - Android
+Happ Android (https://github.com/Happ-proxy/happ-android/releases/latest/download/Happ.apk)
+V2rayNG (https://github.com/2dust/v2rayNG/releases/download/2.1.3/v2rayNG_2.1.3_arm64-v8a.apk)
+Hiddify Android (https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-arm64.apk)
+
+2 - Ios
+
+3 - Windows
+Happ Windows (https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe)
+V2rayN (https://github.com/2dust/v2rayN/releases/download/7.20.4/v2rayN-windows-64.zip)
+Hiddify Windows (https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-Portable-x64.zip)
+
+
+Links
+https://github.com/masterking32/MasterHttpRelayVPN
+https://github.com/denuitt1/mhr-cfw
+https://github.com/therealaleph/MasterHttpRelayVPN-RUST
+https://github.com/aliasoblomov/mhr-vps-worker
+https://github.com/ajavadinezhad/zyrln
+https://github.com/Kianmhz/GooseRelayVPN
+https://github.com/NullLatency/FlowDriver
