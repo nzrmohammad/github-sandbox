@@ -3,6 +3,11 @@
 Click on any link below to start downloading directly.
 
 ---
+📅 **2026-05-09 18:10 IR**
+
+📥 [mhrv-rs-windows-amd64.zip](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/mhrv-rs-windows-amd64.zip) ｜ 7.7M
+
+---
 📅 **2026-05-09 18:05 IR**
 
 📥 [tele-mirror-win-x64.zip.z01](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/tele-mirror-win-x64.zip.z01) ｜ 90M
